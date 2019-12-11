@@ -20,6 +20,7 @@ Open source software is software with source code that anyone can inspect, modif
 - STEP 3: Go to the issues/todo tab and indicate accordingly that you'll be working on that aspect of the project.
 - - For Issues add a comment in the issue thread that you are interested in taking this up. 
 - - For todos add an issue that you will be working on that feauture.
+- - Or in some cases join the discussion group mentioned in the repo.
 - STEP 4: Fork that repo into your account <br>
 ![How to fork](https://i.ibb.co/jfbFRt6/image.png)
 <br>
@@ -29,6 +30,8 @@ Open source software is software with source code that anyone can inspect, modif
 ## Doubts?
 Contact Adit Jain, Open Source Head , Coding Club ( aditjain on Telegram , aditj on github ) <br>
 #  List of repos up for contribution
-- [OMR Checker](https://github.com/Udayraj123/OMRChecker)
+- [OMR Checker](https://github.com/Udayraj123/OMRChecker) 
+-- Discord Group Link :  https://discord.gg/qFv2Vqf
 - [Coding Club App](https://github.com/codingclubiitg2019/Coding-Club-App) <br>
 (Add more either using pull request or directly changing this file)
+
