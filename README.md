@@ -30,5 +30,5 @@ Open source software is software with source code that anyone can inspect, modif
 Contact Adit Jain, Open Source Head , Coding Club ( aditjain on Telegram , aditj on github ) <br>
 #  List of repos up for contribution
 - [OMR Checker](https://github.com/Udayraj123/OMRChecker)
-- [Coding Club App](https://github.com/codingclubiitg2019/Coding-Club-App)
+- [Coding Club App](https://github.com/codingclubiitg2019/Coding-Club-App) <br>
 (Add more either using pull request or directly changing this file)
