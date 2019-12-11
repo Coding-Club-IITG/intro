@@ -16,7 +16,7 @@ Open source software is software with source code that anyone can inspect, modif
 
 ## How to participate? 
 - STEP 1: Create a Github Account <br>
-- STEP 2: Choose a project from the given (list)[https://github.com/Coding-Club-IITG/intro#list-of-repos-up-for-contribution] of repos. <br>
+- STEP 2: Choose a project from the given [list](https://github.com/Coding-Club-IITG/intro#list-of-repos-up-for-contribution) of repos. <br>
 - STEP 3: Go to the issues/todo tab and indicate accordingly that you'll be working on that aspect of the project.
 - - For Issues add a comment in the issue thread that you are interested in taking this up. 
 - - For todos add an issue that you will be working on that feauture.
