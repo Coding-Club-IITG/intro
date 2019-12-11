@@ -1,5 +1,5 @@
 # Introduction 
-Jump to [list]() of repos up for contribution. <br>
+Jump to [list](https://github.com/Coding-Club-IITG/intro#list-of-repos-up-for-contribution) of repos up for contribution. <br>
 What is this?
  - This is a guide to get started with contributing to the some open source projects. 
  - Its main aim is to get participants started with contributions to open source projects and introducing them to the basic flow of the pull request model.
@@ -16,7 +16,7 @@ Open source software is software with source code that anyone can inspect, modif
 
 ## How to participate? 
 - STEP 1: Create a Github Account <br>
-- STEP 2: Choose a project from the given list of repos. <br>
+- STEP 2: Choose a project from the given (list)[https://github.com/Coding-Club-IITG/intro#list-of-repos-up-for-contribution] of repos. <br>
 - STEP 3: Go to the issues/todo tab and indicate accordingly that you'll be working on that aspect of the project.
 - - For Issues add a comment in the issue thread that you are interested in taking this up. 
 - - For todos add an issue that you will be working on that feauture.
