@@ -34,4 +34,7 @@ Contact Adit Jain, Open Source Head , Coding Club ( aditjain on Telegram , aditj
 -- Discord Group Link :  https://discord.gg/qFv2Vqf
 - [Coding Club App](https://github.com/codingclubiitg2019/Coding-Club-App) <br>
 (Add more either using pull request or directly changing this file)
-
+- [Coding Club Site](https://github.com/codingclubiitg2019/codingclubiitg)
+- [Code For The Game 2019](https://github.com/parvindar/codeforthegame2019_fantasycricket)
+- [e-Learning App](https://github.com/KartikeyaSingh03/Kriti_App)
+- [e-Learning Website](https://github.com/AJ-54/e-learning/)
