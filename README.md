@@ -44,4 +44,4 @@ Contact Adit Jain, Open Source Head , Coding Club ( aditjain on Telegram , aditj
 - [Rent/Buy/Sell App](https://github.com/letsdo1/RentBuySell)
 - [Campus Quora App](https://github.com/gitter-badger/Campus-Quora)
 - [Food Court Ordering App](https://github.com/KartikeyaSingh03/Food-Court-Ordering-App)
-- [Merchandise Portal](https://github.com/ethereal999/WEB-)
+- [Merchandise Portal](https://github.com/jainmohit2001/website)
